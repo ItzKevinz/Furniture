@@ -6,7 +6,7 @@ Menggunakan React dan express, disajikan dengan UI/UX menarik supaya sesuai deng
 ✨ Fitur Utama
 1. Sistem Login dengan fitur tambahan admin dan user
 2. Home page berisi banner produk terpilih dengan auto rotate
-3. CRUD (berfungsi ketika admin yang login)
+3. CRUD (berfungsi ketika admin yang login) (username: admin | password: admin123)
 4. Cart, untuk menambah produk anda dan mengumpulkan barang yang akan di beli lalu di checkout (hanya demo)
 5. Search, untuk mencari barang barang yang dibutuhkan, tidak hanya keterangan dan harga saja yang muncul, tapi dengan gambar produk dan produk card ketika di klik.
 6. Logo Inisial username yang kita buat di login, akan muncul di pojok kiri atas
