@@ -29,6 +29,7 @@ Menggunakan React dan express, disajikan dengan UI/UX menarik supaya sesuai deng
 <img width="1920" height="1080" alt="Screenshot (1956)" src="https://github.com/user-attachments/assets/fce9fcd1-4d5e-40a4-a111-d646d7323275" />
 
 Cara Install:
+
 Open folder fe & be
 BE:
 cd fur(tab biar lebih cepet) cd furniture-backend-package 
@@ -40,14 +41,17 @@ npm run dev
 
 Anggota Kelompok + Pembagian Kerja
 
+Rifana Anya Septiani
+[<img src="https://github.com/rifanaanya.png" width="80">](https://github.com/rifanaanya)    Desainer + Data Furniture + Post 
 
-[<img src="https://github.com/rifanaanya.png" width="80">](https://github.com/rifanaanya)    Desainer + Post
 
-
+Kevin Hendra Bouwmeester
 [<img src="https://github.com/ItzKevinz.png" width="80">](https://github.com/ItzKevinz)    Desainer + Full Stack Dev, kecuali put delete
 
 
+Aditya
 [<img src="https://github.com/Adityaxiii.png" width="80">](https://github.com/Adityaxiii)    Delete
+
 
 
 Rasya Johan (Put)
