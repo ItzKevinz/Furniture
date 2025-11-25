@@ -15,3 +15,41 @@ Menggunakan React dan express, disajikan dengan UI/UX menarik supaya sesuai deng
 
 🔐 LOGIN PAGE
 <img width="1920" height="1080" alt="Screenshot (1951)" src="https://github.com/user-attachments/assets/924306e5-74eb-4b14-b40b-dbb5e2d215b7" />
+
+🏠 Home Page
+<img width="1920" height="1080" alt="Screenshot (1952)" src="https://github.com/user-attachments/assets/5e57bc19-95ea-4218-a876-c3a58332b88e" />
+
+🛍️ Product Page
+<img width="1920" height="1080" alt="Screenshot (1954)" src="https://github.com/user-attachments/assets/4d0d6402-acf1-4fe5-ac3f-7e77dcfdfd4a" />
+
+⬆️ Crud untuk upload, edit, delete produk 
+<img width="1920" height="1080" alt="Screenshot (1955)" src="https://github.com/user-attachments/assets/42908847-9f9c-428b-9845-6b0344586107" />
+
+🛒 Cart
+<img width="1920" height="1080" alt="Screenshot (1956)" src="https://github.com/user-attachments/assets/fce9fcd1-4d5e-40a4-a111-d646d7323275" />
+
+Cara Install:
+Clone Repo
+
+
+Open folder fe & be
+BE:
+cd fur(tab biar lebih cepet) cd furniture-backend-package 
+npm i
+npm start
+
+FE: 
+npm i
+npm run dev
+
+Anggota Kelompok:
+Rifana Anya Septiani (Desainer + Post)
+Kevin Hendra Bouwmeester (Ketua, Desainer + Full Stack Dev, kecuali crud bagian delete & put) @ItzKevinz
+Aditya Fitriansyah (delete)
+Rasya Johan (put) 
+
+Anggota Kelompok + Pembagian Kerja
+[<img src="https://github.com/rifanaanya.png" width="50">](https://github.com/rifanaanya)
+[<img src="https://github.com/ItzKevinz.png" width="50">](https://github.com/ItzKevinz)
+
+
