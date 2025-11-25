@@ -49,7 +49,11 @@ Aditya Fitriansyah (delete)
 Rasya Johan (put) 
 
 Anggota Kelompok + Pembagian Kerja
-[<img src="https://github.com/rifanaanya.png" width="50">](https://github.com/rifanaanya)
-[<img src="https://github.com/ItzKevinz.png" width="50">](https://github.com/ItzKevinz)
+
+
+[<img src="https://github.com/rifanaanya.png" width="80">](https://github.com/rifanaanya)
+
+
+[<img src="https://github.com/ItzKevinz.png" width="80">](https://github.com/ItzKevinz)
 
 
