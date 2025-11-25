@@ -29,9 +29,6 @@ Menggunakan React dan express, disajikan dengan UI/UX menarik supaya sesuai deng
 <img width="1920" height="1080" alt="Screenshot (1956)" src="https://github.com/user-attachments/assets/fce9fcd1-4d5e-40a4-a111-d646d7323275" />
 
 Cara Install:
-Clone Repo
-
-
 Open folder fe & be
 BE:
 cd fur(tab biar lebih cepet) cd furniture-backend-package 
@@ -39,14 +36,7 @@ npm i
 npm start
 
 FE: 
-npm i
 npm run dev
-
-Anggota Kelompok:
-Rifana Anya Septiani (Desainer + Post)
-Kevin Hendra Bouwmeester (Ketua, Desainer + Full Stack Dev, kecuali crud bagian delete & put) @ItzKevinz
-Aditya Fitriansyah (delete)
-Rasya Johan (put) 
 
 Anggota Kelompok + Pembagian Kerja
 
