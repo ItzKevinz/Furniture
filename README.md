@@ -28,32 +28,45 @@ Menggunakan React dan express, disajikan dengan UI/UX menarik supaya sesuai deng
 🛒 Cart
 <img width="1920" height="1080" alt="Screenshot (1956)" src="https://github.com/user-attachments/assets/fce9fcd1-4d5e-40a4-a111-d646d7323275" />
 
-Cara Install:
 
-Open folder fe & be
-BE:
-cd fur(tab biar lebih cepet) cd furniture-backend-package 
-npm i
+**JavaScript**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**MYSQL**
+ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+Anggota Kelompok + Pembagian Kerja:
+
+1. [Rifana Anya Septiani](https://github.com/rifanaanya) : Desainer + Data SQL + Post
+2. [Kevin Hendra Bouwmeester](https://github.com/ItzKevinz) : Full Stack Dev + Desainer, kecuali put & delete
+3. [Aditya](https://github.com/Adityaxiii) : Delete
+4. Rasya Johan : Put
+
+Cara Install:
+```bash
+# Clone repository
+git clone https://github.com/ItzKevinz/Furniture.git
+
+# Masuk Folder
+cd furniture-backend-package
+
+# Install
+npm install
+
+# Nyalakan Server
 npm start
 
-FE: 
+# FE: 
 npm run dev
-
-Anggota Kelompok + Pembagian Kerja
-
-Rifana Anya Septiani
-[<img src="https://github.com/rifanaanya.png" width="80">](https://github.com/rifanaanya)    Desainer + Data Furniture + Post 
-
-
-Kevin Hendra Bouwmeester
-[<img src="https://github.com/ItzKevinz.png" width="80">](https://github.com/ItzKevinz)    Desainer + Full Stack Dev, kecuali put delete
-
-
-Aditya
-[<img src="https://github.com/Adityaxiii.png" width="80">](https://github.com/Adityaxiii)    Delete
-
-
-
-Rasya Johan (Put)
 
 
