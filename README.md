@@ -51,9 +51,15 @@ Rasya Johan (put)
 Anggota Kelompok + Pembagian Kerja
 
 
-[<img src="https://github.com/rifanaanya.png" width="80">](https://github.com/rifanaanya)
+[<img src="https://github.com/rifanaanya.png" width="80">](https://github.com/rifanaanya)    Desainer + Post
 
 
-[<img src="https://github.com/ItzKevinz.png" width="80">](https://github.com/ItzKevinz)
+[<img src="https://github.com/ItzKevinz.png" width="80">](https://github.com/ItzKevinz)    Desainer + Full Stack Dev, kecuali put delete
+
+
+[<img src="https://github.com/Adityaxiii.png" width="80">](https://github.com/Adityaxiii)    Delete
+
+
+Rasya Johan (Put)
 
 
